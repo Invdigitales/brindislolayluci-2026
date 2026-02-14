@@ -266,28 +266,18 @@ margin-left: -3% ;
 }
 
 
-.anillo{
-  width: 18%;
-  top: -10%;
-   display: block;
-  margin: 0 auto;
-}
+
 .bola{
-    width: 16%;
- display: block;
+  width: 18%;
+  display: block;
   margin: 0 auto;
-  position: relative;
-  top: -40px; 
+  transform: translateY(-50%);
 }
-.teesperamos{
+.luciylola {
   width: 100%;
-  margin-top: 10%;
+  margin-top: 15%;
 }
-.teesperodos{
-   width: 45%;
-  margin-top: 40%;
-  margin-left: 29%;
-}
+
 .teespero{
   width: 38%;
   margin-top: -4%;
@@ -457,7 +447,7 @@ margin-left: -3% ;
    font-family: "Poppins", sans-serif;
   font-size: 25px;
   color: #414141;
-  margin-top: -9%;
+  margin-top: -13%;
   text-align: center;
  
 }
